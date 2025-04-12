@@ -9,4 +9,6 @@ I actively contributed to the design, implementation, and documentation of the f
 ✅ TIMER – Timer configuration for periodic tasks and delay functionality
 ✅ GPIO – Pin setup, input/output logic, and alternate function mapping
 ✅ CLOCK – System clock configuration including PLL and prescalers for desired frequencies
+
 These modules were developed with attention to register-level control, modular C code structure, and inline documentation to support learning and reuse.
+
